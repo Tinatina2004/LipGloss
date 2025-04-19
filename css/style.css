@@ -542,7 +542,6 @@ letter-spacing: 2px;
     height: 12px;
     margin: 5px;
     border-radius: 50%;
-    cursor: pointer;
     transition: 0.3s;
 }
 .choose-item .list-choose .li-choose{
